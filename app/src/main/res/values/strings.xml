@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FaceBookBasics</string>
+    <string name="facebook_app_id">1565441257082535</string>
+    <string name="user_name">Name</string>
+    <string name="user_name_gender">Gender</string>
+    <string name="user_name_birthday">Birthday</string>
+    <string name="user_name_url">URL</string>
+    <string name="btn_share_dialog_">Share Dialog</string>
+</resources>
